@@ -1,0 +1,18 @@
+.button {
+  color: blue;
+  cursor: pointer;
+}
+
+.item {
+  width: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  border: 1px solid darkblue;
+}
+
+.text {
+  margin-right: 10px;
+  margin-top: 10px;
+}
